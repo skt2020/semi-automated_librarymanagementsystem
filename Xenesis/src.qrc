@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>xen.jpeg</file>
+        <file>back.png</file>
+        <file>back3.jpg</file>
+        <file>back4.jpg</file>
+        <file>back6.jpg</file>
+        <file>back7.png</file>
+        <file>back8.jpeg</file>
+        <file>back9.jpg</file>
+        <file>back10.png</file>
+        <file>book.png</file>
+        <file>back11.png</file>
+        <file>back15.jpg</file>
+        <file>back18.jpg</file>
+        <file>background.jpeg</file>
+        <file>back24.png</file>
+        <file>back32.jpg</file>
+        <file>back33.jpg</file>
+        <file>back31.jpg</file>
+        <file>back36.jpg</file>
+        <file>back37.jpeg</file>
+        <file>back38.jpg</file>
+        <file>icon_ad.png</file>
+        <file>icon_st.png</file>
+        <file>back39.jpg</file>
+        <file>back40.jpg</file>
+        <file>back41.jpg</file>
+        <file>back20.png</file>
+        <file>back21.jpeg</file>
+        <file>back22.png</file>
+        <file>back25.png</file>
+        <file>back26.png</file>
+        <file>back27.png</file>
+        <file>back42.jpg</file>
+        <file>back43.png</file>
+        <file>back44.jpeg</file>
+        <file>back45.jpg</file>
+        <file>back46.jpg</file>
+        <file>back47.jpg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
