@@ -1,6 +1,6 @@
 # XENESIS Semi-automated library management system
 
-# Version -2.2 (Beta)
+# Version -1.2 (Beta)
 
 # BETA version notice
 This is an early preview and is neither perfect nor fully featured. This is a glimpse of our direction but may change quite a bit without notice.
