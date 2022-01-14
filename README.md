@@ -28,4 +28,5 @@ anywhere which basically focuses on issuing, renewing and reserving a book.
 Smart Book Management System Using QR-Sensing
 Compiled and Developed software for faster and easier management of books by QR scanning, online services and E-card's implementing self-book issue system using QT-Framework, C/C++, PHP and MySQL.
 
-![Smart Book Management System Using QR-Sensing](![lms](https://user-images.githubusercontent.com/44112240/149558347-bac15e3f-ea5c-4c45-9735-5f828a7b4aba.png))
+![lms](https://user-images.githubusercontent.com/44112240/149559237-6db3ee2d-a365-42f9-a785-dfe9a187c95b.png)
+
