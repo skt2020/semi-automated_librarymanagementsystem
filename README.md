@@ -23,3 +23,9 @@ issuing, renewing, or reserving a book from an library within your institute thr
 your phone. The Integrated Library Management system (LMS) is developed on
 the library computer system with a website to support students logging in from
 anywhere which basically focuses on issuing, renewing and reserving a book.
+
+# Summary 
+Smart Book Management System Using QR-Sensing
+Compiled and Developed software for faster and easier management of books by QR scanning, online services and E-card's implementing self-book issue system using QT-Framework, C/C++, PHP and MySQL.
+
+![Smart Book Management System Using QR-Sensing](![lms](https://user-images.githubusercontent.com/44112240/149558347-bac15e3f-ea5c-4c45-9735-5f828a7b4aba.png))
