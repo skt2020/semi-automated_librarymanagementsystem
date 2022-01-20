@@ -1,4 +1,4 @@
-# XENESIS Semi-automated library management system
+# Xenesis - Smart Book Management System Using QR-Sensing
 
 #### Version -1.2 (Beta)
 #### BETA version notice
